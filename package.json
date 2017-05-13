@@ -1,0 +1,21 @@
+{
+  "name": "@maael/express-bunyan",
+  "version": "1.0.0",
+  "description": "Bunyan made to work with express as a drop-in middleware.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bunyan",
+    "express",
+    "middleware",
+    "logger"
+  ],
+  "author": "Matthew Elphick",
+  "license": "MIT",
+  "dependencies": {
+    "bunyan": "^1.8.10",
+    "morgan": "^1.8.1"
+  }
+}
